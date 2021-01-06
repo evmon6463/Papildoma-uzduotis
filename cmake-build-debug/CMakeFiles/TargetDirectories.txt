@@ -1,0 +1,3 @@
+C:/Users/eveli/CLionProjects/papildoma_uzduotis/cmake-build-debug/CMakeFiles/papildoma_uzduotis.dir
+C:/Users/eveli/CLionProjects/papildoma_uzduotis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/eveli/CLionProjects/papildoma_uzduotis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
